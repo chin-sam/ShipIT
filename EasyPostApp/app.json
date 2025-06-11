@@ -1,0 +1,42 @@
+{
+  "id": "d214f94b-7d76-4cbf-8238-dc07b9fe4346",
+  "name": "EasyPost with ShipIT 365",
+  "publisher": "IDYN B.V.",
+  "version": "21.10.0.0",
+  "brief": "Book your transport orders at US Postal Service, UPS, FedEx, DHL and 100+ other carriers, with one click with Easypost.",
+  "description": "Integrate EasyPost into Business Central with ShipIT 365. ShipIT 365 is the easiest way to manage all your (inter)national transport orders directly from within Dynamics 365 Business Central. ShipIT 365 is completely integrated with Business Central and is connected to the EasyPost platform with 100+ carriers worldwide e.g. US Postal Service, UPS, FedEx and DHL. Simply select how to ship; book and print a transport label with one single click.",
+  "privacyStatement": "https://www.idyn.nl/privacy-statement/",
+  "EULA": "https://www.idyn.nl/end-user-license-agreement/",
+  "help": "https://idyn.atlassian.net/wiki/spaces/S365M",
+  "url": "https://www.idyn.nl/solutions/shipit-365",
+  "logo": "easypost with ShipIT365.png",
+  "dependencies": [
+    {
+      "id": "9e0ee02b-484d-4487-8d74-961ece2357c0",
+      "name": "ShipIT 365",
+      "publisher": "IDYN B.V.",
+      "version": "21.10.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "21.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 11147827,
+      "to": 11147829
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://idyn.atlassian.net/wiki/spaces/S365M/pages/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "10.0",
+  "features": [
+    "TranslationFile", "GenerateCaptions"
+  ],
+  "applicationInsightsConnectionString": "InstrumentationKey=ed44466a-a106-4fe0-8c62-357cf377f613;IngestionEndpoint=https://westeurope-3.in.applicationinsights.azure.com/",
+  "preprocessorSymbols": ["BC21"]
+}
