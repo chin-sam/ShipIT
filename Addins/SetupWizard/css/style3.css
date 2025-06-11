@@ -1,0 +1,44 @@
+body {
+    font-family: 'Segoe UI';
+    font-size: 10.5pt !important;
+}
+
+#container {
+    background-color: white;
+    padding-left: 30pt;
+    padding-right: 0pt;
+}
+
+#controlAddin {
+    width: 100%;
+    background-color: white;
+}
+
+div {
+    padding-bottom: 1pt;
+    background-color: white;
+}
+
+button {
+    background-color: #007E87;
+    color: white;
+    height: 30px;
+    width: 200px;
+    border-radius: 15px;
+    border-style: none;
+    box-sizing: border-box;
+    font-size: 10.5pt !important;
+    font-family: 'Segoe UI';
+    cursor: pointer;
+    transition-duration: 0.4s;
+    margin: 3px;
+}
+
+.ms-nav-edit-control-container {
+    margin: 0pt !important;
+}
+
+p {
+    padding-top: 8px;
+    margin: 3px;
+}
