@@ -1,0 +1,4 @@
+{
+    "mandatoryAffixes": ["IDYS TS"],
+    "supportedCountries": ["DE", "NL", "FR", "ES", "GB", "BE"]
+}
