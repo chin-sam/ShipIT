@@ -1,0 +1,54 @@
+{
+  "id": "9a102391-f119-42de-a709-508856eca3d4",
+  "name": "ShipIT 365 Connector with Mobile WMS",
+  "publisher": "IDYN B.V.",
+  "brief": "Connect ShipIT 365 with Tasklet's Mobile WMS",
+  "description": "Connect ShipIT 365 with Tasklet's Mobile WMS",
+  "version": "24.10.0.1",
+  "privacyStatement": "https://www.idyn.nl/privacy-statement/",
+  "EULA": "https://www.idyn.nl/end-user-license-agreement/",
+  "help": "https://idyn.atlassian.net/wiki/spaces/S365M",
+  "url": "https://www.idyn.nl/solutions/shipit-365",
+  "logo": "./gfx/logo.png",
+  "contextSensitiveHelpUrl": "https://idyn.atlassian.net/wiki/spaces/S365M/pages/",
+  "dependencies": [    
+    { 
+      "id": "a5727ce6-368c-49e2-84cb-1a6052f0551c", 
+      "name": "Mobile WMS", 
+      "publisher": "Tasklet Factory", 
+      "version": "5.42.0.0"
+    },    
+    {
+      "id": "9e0ee02b-484d-4487-8d74-961ece2357c0",
+      "name": "ShipIT 365",
+      "publisher": "IDYN B.V.",
+      "version": "21.8.1790.0"
+    }
+  ],
+  "application": "21.0.0.0",
+  "platform": "21.0.0.0",
+  "screenshots": [],
+  "resourceExposurePolicy": {
+    "allowDebugging": true, 
+    "allowDownloadingSource": false, 
+    "includeSourceInSymbolFile": false
+  },
+  "internalsVisibleTo": [
+    {
+      "id": "1b2f2e36-c25d-4fd1-afe1-68317e6009f6",
+      "name": "Idyn Solution app",
+      "publisher": "IDYN B.V."
+    }
+  ],
+  "runtime": "10.0",
+  "features": ["TranslationFile", "GenerateCaptions"],    
+  "target": "Cloud",
+  "applicationInsightsConnectionString": "InstrumentationKey=ed44466a-a106-4fe0-8c62-357cf377f613;IngestionEndpoint=https://westeurope-3.in.applicationinsights.azure.com/",
+  "idRanges": [
+    {
+      "from": 11147815,
+      "to": 11147826
+    }
+  ],
+  "preprocessorSymbols": ["BC21"]
+}

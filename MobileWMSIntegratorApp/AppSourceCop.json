@@ -1,0 +1,7 @@
+{
+    "supportedCountries": [ 
+        "AE", "AU", "AT", "BE", "BR", "CA", "CH", "CO", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "HK", "HR", "HU",
+        "ID", "IE", "IS", "IT", "JP", "KR", "LV", "LT", "MX", "MY", "NL", "NZ", "NO", "PE", "PH", "PL", "PT", "RS", "RU", "SE", "SG", "ZA", "TH", "TW", "US", "VN"
+    ],
+    "mandatoryPrefix": "IDYST"
+}

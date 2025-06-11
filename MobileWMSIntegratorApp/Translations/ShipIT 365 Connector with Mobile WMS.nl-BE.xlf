@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="nl-BE" original="ShipIT 365 Connector with Mobile WMS">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 330746396 - Method 637476659 - NamedType 2343576573" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Packages: %1</source>
+          <target state="translated">Pakketten: %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Total No. of Packages</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit IDYST ShippingProvider - Method BookAndPrintShipItTransportOrder - NamedType PackagesLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3972030568 - Control 360212413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1131056297">
+          <source>Pack &amp; Ship - ShipIT 365 Connector</source>
+          <target state="translated">Pack &amp; Ship - ShipIT 365 Connector</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST MOB Setup - Control IDYST - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3972030568 - Control 218371528 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1131056297">
+          <source>Enabling this field allows the system to work in continuous mode, which means having an error within the book or print action will not break the process.</source>
+          <target state="translated">Indien ingeschakeld zal het systeem niet worden onderbroken indien er fouten optreden tijdens het boeken of printen van transport orders.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST MOB Setup - Control IDYST Continue After TO Fails - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3972030568 - Control 2024432370 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1131056297">
+          <source>Specifies if ShipIT 365 Transport Order should either 'Book and print' only 'Book' or 'None' when Shipment is posted from the mobile device.</source>
+          <target state="translated">Geeft aan welke actie wordt uitgevoerd voor het afhandelen van transport orders, wanneer verzendindgen worden geboekt vanaf een mobiel apparaat. De mogelijke opties zijn: 'boeken en afdrukken', 'boeken' of 'Geen'. </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST MOB Setup - Control IDYST TranspOrder Booking - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1465163490 - Control 946266542 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2757842272">
+          <source>Specifies the value of the Booking Profile Description field (ShipIT 365)</source>
+          <target state="translated">Geeft de waarde weer van de omschrijving van het boekingsprofiel veld (ShipIT 365).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Package Setup - Control IDYST Book Prof Descr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1465163490 - Control 2319490692 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2757842272">
+          <source>Specifies the value of the Carrier Name field (ShipIT 365)</source>
+          <target state="translated">Geeft de vervoerdersnaam weer (ShipIT 365).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Package Setup - Control IDYST Carrier Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1465163490 - Control 765452295 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2757842272">
+          <source>Specifies the value of the Provider field (ShipIT 365)</source>
+          <target state="translated">Geeft de provider weer (ShipIT 365).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Package Setup - Control IDYST IDYS Provider - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1465163490 - Control 1540370774 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2757842272">
+          <source>Specifies the value of the Package Description field (ShipIT 365)</source>
+          <target state="translated">Geeft de pakketomschrijving weer (ShipIT 365).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Package Setup - Control IDYST Package Descr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1763805693 - Control 946266542 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1170681860">
+          <source>Specifies the value of the Book Prof Description field (ShipIT 365)</source>
+          <target state="translated">Geeft de boekingsprofielomschrijving weer (ShipIT 365).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Package Type List - Control IDYST Book Prof Descr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1763805693 - Control 4196685502 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1170681860">
+          <source>Specifies the value of the Book Prof Entry No. field (ShipIT 365)</source>
+          <target state="translated">Geeft het boekingsprofielpostnr. weer (ShipIT 365).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Package Type List - Control IDYST Book Prof Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1763805693 - Control 3736432248 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1170681860">
+          <source>Specifies the value of the Carrier Entry No. field (ShipIT 365)</source>
+          <target state="translated">Geeft de vervoerderspostnr. weer (ShipIT 365).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Package Type List - Control IDYST Carrier Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1763805693 - Control 2319490692 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1170681860">
+          <source>Specifies the value of the Carrier Name field (ShipIT 365)</source>
+          <target state="translated">Geeft de vervoerdersnaam weer (ShipIT 365).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Package Type List - Control IDYST Carrier Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1763805693 - Control 765452295 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1170681860">
+          <source>Specifies the value of the Provider field (ShipIT 365)</source>
+          <target state="translated">Geeft de provider weer (ShipIT 365).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Package Type List - Control IDYST IDYS Provider - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 613032174 - Control 1081695262 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3212817803">
+          <source>Specifies the value of the Drop Zone Label Printer Key field (ShipIT365 - DeliveryHub)</source>
+          <target state="translated">Geeft de Dropzone label printer sleutel weer (ShipIT 365 - nShift Ship).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Packing Station List - Control IDYST DZ Label Printer Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 613032174 - Control 1821604340 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3212817803">
+          <source>Specifies the value of the Password (External) field (ShipIT365 - TransSmart)</source>
+          <target state="translated">Geeft het externe wachtwoord weer (ShipIT 365 - Transsmart).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Packing Station List - Control IDYST Password (External) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 613032174 - Control 1405243027 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3212817803">
+          <source>Specifies the value of the Ticket Username field (ShipIT365 - DeliveryHub)</source>
+          <target state="translated">Geeft de gebruikersnaam weer (ShipIT 365 - nShift Ship).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Packing Station List - Control IDYST Ticket Username - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 613032174 - Control 2361872283 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3212817803">
+          <source>Specifies the value of the User Name (External) field (ShipIT365 - TransSmart)</source>
+          <target state="translated">Geeft de externe gebruikersnaam weer (ShipIT 365 - Transsmart).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Packing Station List - Control IDYST User Name (External) - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 613032174 - Control 1722225311 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3212817803">
+          <source>Specifies the value of the Workstation ID field (ShipIT365 - DeliveryHub)</source>
+          <target state="translated">Geeft het werkstation-ID weer (ShipIT 365 - nShift Ship).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Packing Station List - Control IDYST Workstation ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1798218854 - NamedType 1184623961" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1798218854">
+          <source>Mobile WMS license plates are associated with this Transport Order, do you want to make these license plates retrievable again on future transport orders?</source>
+          <target state="translated">Mobile WMS kentekenplaten zijn gekoppeld aan deze transportorder, wilt u het mogelijk maken om deze opnieuw te gebruiken op nieuwe transportorders?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Transport Order Card - NamedType ResetMOBLicensePlatesQst</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1798218854 - Method 3555992377 - NamedType 1748089879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1798218854">
+          <source>InsertPackagesForTransportOrderLine(): IDYSTransportOrderLine %1 not supported.</source>
+          <note from="Developer" annotates="general" priority="2">%1 = Source Document Table No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Transport Order Card - Method MOSInsertPackagesForTransportOrderLine - NamedType SourceTypeUnSupErr</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1798218854 - Action 1278447534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1861491554">
+          <source>Pack &amp; Ship</source>
+          <target state="translated">Inpakken &amp; Verzenden</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Transport Order Card - Action IDYST Packing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1798218854 - Action 1980390319 - Property 2001309823" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1861491554">
+          <source>Get all packages from License Plates associated with to Warehouse Shipments from Transport Order Lines.</source>
+          <target state="translated">Haal alle pakketten op die zijn gekoppeld aan de magazijnverzendingen met transportorderregels.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Transport Order Card - Action IDYST GetAllPackages - Property Tooltip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1798218854 - Action 1980390319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1861491554">
+          <source>Get all packages</source>
+          <target state="translated">Haal alle pakketten op</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Transport Order Card - Action IDYST GetAllPackages - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1798218854 - Action 1980390319 - Method 1377591017 - NamedType 1498345829" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1798218854">
+          <source>%1 package(s) were inserted.</source>
+          <target state="translated">%1 pakket(ten) werden aangemaakt.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = No. of Packages Created</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Transport Order Card - Action IDYST GetAllPackages - Method OnAction - NamedType PackageCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1798218854 - Action 1980390319 - Method 1377591017 - NamedType 1862039634" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1798218854">
+          <source>There are no packages to insert.</source>
+          <target state="translated">Er zijn geen pakketten om aan te maken.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension IDYST Transport Order Card - Action IDYST GetAllPackages - Method OnAction - NamedType NoNewPackageCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3972030568 - Field 218371528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1131056297">
+          <source>Continue After Transport Order Fails</source>
+          <target state="translated">Hervatten indien transportorder boeken mislukt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST MOB Setup - Field IDYST Continue After TO Fails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3972030568 - Field 2024432370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1131056297">
+          <source>Transport Order Booking Action</source>
+          <target state="translated">Transportorder boekingsactie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST MOB Setup - Field IDYST TranspOrder Booking - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3972030568 - Field 2024432370 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1131056297">
+          <source>Book &amp; print,Book,None</source>
+          <target state="translated">Boeken &amp; afdrukken,Boeken,Geen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST MOB Setup - Field IDYST TranspOrder Booking - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1465163490 - Field 946266542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2757842272">
+          <source>Booking Profile Description</source>
+          <target state="translated">Boekingsprofielomschrijving</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Package Setup - Field IDYST Book Prof Descr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1465163490 - Field 2319490692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2757842272">
+          <source>Carrier Name</source>
+          <target state="translated">Naam van de vervoerder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Package Setup - Field IDYST Carrier Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1465163490 - Field 765452295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2757842272">
+          <source>Provider</source>
+          <target state="translated">Aanbieder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Package Setup - Field IDYST IDYS Provider - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1465163490 - Field 1540370774 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2757842272">
+          <source>Package Type Description</source>
+          <target state="translated">Omschrijving van pakkettype</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Package Setup - Field IDYST Package Descr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1098609107 - Field 946266542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2511124422">
+          <source>Booking Profile Description</source>
+          <target state="translated">Boekingsprofielomschrijving</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Package Type - Field IDYST Book Prof Descr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1098609107 - Field 4196685502 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2511124422">
+          <source>Booking Profile Entry No.</source>
+          <target state="translated">Boekingsprofielpostnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Package Type - Field IDYST Book Prof Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1098609107 - Field 3736432248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2511124422">
+          <source>Carrier Entry No.</source>
+          <target state="translated">Vervoerderspostnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Package Type - Field IDYST Carrier Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1098609107 - Field 2319490692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2511124422">
+          <source>Carrier Name</source>
+          <target state="translated">Naam van de vervoerder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Package Type - Field IDYST Carrier Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1098609107 - Field 765452295 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2511124422">
+          <source>Provider</source>
+          <target state="translated">Aanbieder</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Package Type - Field IDYST IDYS Provider - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 824645084 - Field 1081695262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1979355317">
+          <source>Drop Zone Label Printer Key</source>
+          <target state="translated">Drop Zone Etiket Printer Sleutel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Packing Station - Field IDYST DZ Label Printer Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 824645084 - Field 1821604340 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1979355317">
+          <source>Password (External)</source>
+          <target state="translated">Wachtwoord (extern)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Packing Station - Field IDYST Password (External) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 824645084 - Field 1405243027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1979355317">
+          <source>Ticket Username</source>
+          <target state="translated">Ticket Gebruikersnaam</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Packing Station - Field IDYST Ticket Username - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 824645084 - Field 2361872283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1979355317">
+          <source>User Name (External)</source>
+          <target state="translated">Gebruikersnaam (Extern)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Packing Station - Field IDYST User Name (External) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 824645084 - Field 1722225311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1979355317">
+          <source>Workstation ID</source>
+          <target state="translated">Werkstation Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension IDYST Packing Station - Field IDYST Workstation ID - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
