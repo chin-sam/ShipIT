@@ -1,0 +1,55 @@
+{
+  "id": "9e0ee02b-484d-4487-8d74-961ece2357c0",
+  "name": "ShipIT 365",
+  "publisher": "IDYN B.V.",
+  "version": "25.11.3860.1",
+  "brief": "Book your transport orders at UPS, FedEx, DHL and 400+ other carriers, with one click.",
+  "description": "Book your transport orders at UPS, FedEx, DHL and 400+ other carriers, with one click.",
+  "privacyStatement": "https://www.idyn.nl/privacy-statement/",
+  "EULA": "https://www.idyn.nl/end-user-license-agreement/",
+  "help": "https://idyn.atlassian.net/wiki/spaces/S365M",
+  "url": "https://www.idyn.nl/solutions/shipit-365",
+  "logo": "ShipITlogo.png",
+  "dependencies": [
+    {
+      "id": "6e68aa49-6360-4cf1-b596-29b0d481ee2a",
+      "name": "Idyn App Management",
+      "publisher": "IDYN B.V.",
+      "version": "21.0.1.0"
+    },
+    {
+      "id": "ab84d7ae-cfeb-40a3-af95-60fa9f17a596",
+      "name": "PrintIT 365",
+      "publisher": "IDYN B.V.",
+      "version": "22.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 11147639,
+      "to": 11147814
+    }
+  ],
+  "internalsVisibleTo": [
+    {
+      "id": "1b2f2e36-c25d-4fd1-afe1-68317e6009f6",
+      "name": "Idyn Solution app",
+      "publisher": "IDYN B.V."
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://idyn.atlassian.net/wiki/spaces/S365M/pages/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "11.0",
+  "features": [
+    "TranslationFile", "GenerateCaptions"
+  ],
+  "applicationInsightsConnectionString": "InstrumentationKey=ed44466a-a106-4fe0-8c62-357cf377f613;IngestionEndpoint=https://westeurope-3.in.applicationinsights.azure.com/",
+  "preprocessorSymbols": ["BC24"]
+}
