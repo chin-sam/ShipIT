@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="nl-NL" original="PrintIT 365">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1482140974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintIT Printer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP Printer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1482140974 - Field 3658159572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Computer Hostname</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP Printer - Field Computer Hostname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1482140974 - Field 1383905037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default</source>
+          <target state="translated">Standaard</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP Printer - Field Default - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1482140974 - Field 982660914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Filter</source>
+          <target state="translated">Bestandsfilter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP Printer - Field File Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1482140974 - Field 3697273669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP Printer - Field Printer Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1482140974 - Field 996298347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Name</source>
+          <target state="translated">Printer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP Printer - Field Printer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1482140974 - Field 269761521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer State</source>
+          <target state="translated">Printer status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP Printer - Field State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 889685629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintIT Setup</source>
+          <target state="translated">PrintIT instellingen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 889685629 - Field 4253087169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Key</source>
+          <target state="translated">API-sleutel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP Setup - Field API Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 889685629 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Primaire sleutel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986366765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintIT User Printer</source>
+          <target state="translated">PrintIT gebruikersprinter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP User Printer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986366765 - Field 2796849649 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Extension Filter</source>
+          <target state="translated">Bestandsextensie filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP User Printer - Field File Extension Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986366765 - Field 3697273669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP User Printer - Field Printer Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986366765 - Field 996298347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printer Name</source>
+          <target state="translated">Printer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP User Printer - Field Printer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986366765 - Field 1962445182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default</source>
+          <target state="translated">Standaard</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP User Printer - Field User Default - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 986366765 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target state="translated">Gebruikers-id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table IDYP User Printer - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1497856506 - Method 2290699983 - NamedType 3108335040" size-unit="char" translate="yes" xml:space="preserve">
+          <source>An error ocurred connecting to PrintNode.</source>
+          <target state="translated">Verbind maken met PrintNode is mislukt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit IDYP PrintNode Management - Method ParseError - NamedType GenericErr</note>
+        </trans-unit>
+        <trans-unit id="Page 122417851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintIT Printers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Printers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 122417851 - Control 3658159572 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Printer Id</source>
+          <target state="translated">Specificeert de id van de printer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Printers - Control Computer Hostname - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 122417851 - Control 3697273669 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Printer Id</source>
+          <target state="translated">Specificeert de id van de printer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Printers - Control Printer Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 122417851 - Control 996298347 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Printer Name</source>
+          <target state="translated">Specificeert de naam van de printer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Printers - Control Printer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 122417851 - Action 2795778837 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gets the printers from the PrintNode API.</source>
+          <target state="translated">Haalt de printers op van de PrintNode API.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Printers - Action GetPrinters - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 122417851 - Action 2795778837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Printers</source>
+          <target state="translated">Printers ophalen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Printers - Action GetPrinters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 122417851 - Action 3083160081 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Initiates PrintNode printing to the selected printer.</source>
+          <target state="translated">Initieert het printen via PrintNode naar de geselecteerde printer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Printers - Action Test Print - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 122417851 - Action 3083160081 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Print</source>
+          <target state="translated">Afdruktest</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Printers - Action Test Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 122417851 - Action 3083160081 - Method 1377591017 - NamedType 1997510694" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select Test Print File</source>
+          <target state="translated">Selecteer een testbestand om te printen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Printers - Action Test Print - Method OnAction - NamedType DialogTitleLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 122417851 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category_Process</source>
+          <target state="translated">Category_Process</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Printers - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 889685629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintIT Setup</source>
+          <target state="translated">PrintIT instellingen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 889685629 - Control 4253087169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the API key.</source>
+          <target state="translated">Specificeert de API sleutel.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Setup - Control API Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 889685629 - Control 4253087169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Key</source>
+          <target state="translated">API-sleutel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Setup - Control API Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 889685629 - Action 754966559 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens the list of PrintNode printers.</source>
+          <target state="translated">Opent de lijst van PrintNode printers.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Setup - Action Printers - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 889685629 - Action 754966559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Printers</source>
+          <target state="translated">Printers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Setup - Action Printers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 889685629 - Action 1959202344 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Opens the list of user printers.</source>
+          <target state="translated">Opent de lijst van gebruikersprinters.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Setup - Action User Printers - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 889685629 - Action 1959202344 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Printers</source>
+          <target state="translated">Gebruikersprinters</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Setup - Action User Printers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 889685629 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category_Process</source>
+          <target state="translated">Category_Process</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP Setup - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 318665508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrintIT User Printers</source>
+          <target state="translated">PrintIT gebruikersprinter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP User Printers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 318665508 - Control 2796849649 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the file extension filter.</source>
+          <target state="translated">Specificeert het bestandsnaam filter.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP User Printers - Control File Extension Filter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 318665508 - Control 3697273669 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the printer id.</source>
+          <target state="translated">Specificeert de id van de printer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP User Printers - Control Printer Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 318665508 - Control 996298347 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the printer name.</source>
+          <target state="translated">Specificeert de naam van de printer.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP User Printers - Control Printer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 318665508 - Control 1962445182 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user default.</source>
+          <target state="translated">Specificeert de gebruikers standaard keuze.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP User Printers - Control User Default - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 318665508 - Control 2708250016 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the user id.</source>
+          <target state="translated">Hiermee geeft u de gebruikersnaam op.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page IDYP User Printers - Control User ID - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
