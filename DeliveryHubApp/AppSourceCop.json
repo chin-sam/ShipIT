@@ -1,0 +1,4 @@
+{
+    "mandatoryAffixes": ["IDYS Delivery Hub"],
+    "supportedCountries": ["DE", "NL", "FR", "ES", "GB", "BE"]
+}
