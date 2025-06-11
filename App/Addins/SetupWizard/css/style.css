@@ -1,0 +1,35 @@
+body {
+    font-family: 'Segoe UI';
+    font-size: 10.5pt !important;
+    margin: 0px;
+}
+
+#container {
+    background-color: white;
+    padding-left: 0pt;
+    padding-right: 0pt;
+}
+
+#controlAddin{
+    background-color: white;
+}
+
+div {
+    padding-bottom: 10.5pt;
+    padding-top: 0pt;
+    background-color: white;
+}
+    
+button{ 
+    background-color: #007E87;   
+    color: white;    
+    height: 30px;     
+    width: 50%;
+    border-radius: 15px;
+    border-style: none;    
+    box-sizing: border-box;
+    font-size: 10.5pt !important;
+    font-family: 'Segoe UI';
+    cursor: pointer;
+    transition-duration: 0.4s;
+} 
